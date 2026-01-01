@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+scikit-learn>=1.2
+sentence-transformers>=2.2
+langchain>=0.0.300          # we'll pin more precisely later
+chromadb>=0.4               # or faiss-cpu
+gradio>=4.0
+python-dotenv               # useful for API keys later
