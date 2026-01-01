@@ -1,0 +1,63 @@
+# ===============================
+# Data & Model Artifacts
+# ===============================
+data/
+models/
+docs/
+
+# ===============================
+# Python Cache & Virtual Envs
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ===============================
+# Jupyter Notebook Artifacts
+# ===============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===============================
+# Environment & Secrets
+# ===============================
+.env
+.env.*
+*.key
+*.pem
+
+# ===============================
+# Logs & Temporary Files
+# ===============================
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ===============================
+# OS & Editor Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# VS Code (keep settings.json if needed)
+.vscode/*
+!.vscode/settings.json
+
+# ===============================
+# Testing & Coverage
+# ===============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===============================
+# Build Artifacts
+# ===============================
+build/
+dist/
+*.egg-info/
