@@ -4,6 +4,7 @@
 data/
 models/
 docs/
+reports/
 
 # ===============================
 # Python Cache & Virtual Envs
